@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatahataDev)](https://github.com/hatahataDev/github-readme-stats)
+
 <p align="left">
   <a href="https://github.com/hatahataDev">
     <img height="20" src="https://komarev.com/ghpvc/?username=hatahataDev" />
